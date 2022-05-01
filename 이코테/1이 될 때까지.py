@@ -20,7 +20,6 @@ def first(n, k):
     return cnt
 
 #두번째solution
-#수열을 이용해서 문제 풀이
 def second(n, k):
     cnt = 0
     while True:
